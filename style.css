@@ -30,8 +30,8 @@ body {
 #luckyJetIcon.flying,
 #luckyJetIcon.ending {
   border-radius: 2px; 
-  height: 300px;
-  width: 300px;
+  height: 200px;
+  width: 200px;
 }
 
 #endingText {
