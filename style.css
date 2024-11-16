@@ -30,8 +30,8 @@ body {
 #luckyJetIcon.flying,
 #luckyJetIcon.ending {
   border-radius: 2px; 
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
 }
 
 #endingText {
@@ -93,10 +93,10 @@ body {
 
 /* Media Queries для адаптации */
 
-@media (max-width: 768px) { /* Для мобильных устройств */
+@media (max-width: 720px) { /* Для мобильных устройств */
   #luckyJetIcon {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
   }
 
   #endingText,
